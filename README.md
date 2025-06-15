@@ -1,4 +1,4 @@
-# A Patada da Gazeta
+# A Patada da Gazeta - Projeto de Podcast gerado por I.A.s
 **Um podcast que relê os clássicos da literatura brasileira com uma dose de crítica, humor e contexto histórico.**
 ---
 
