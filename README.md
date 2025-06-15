@@ -1,6 +1,6 @@
 # A Patada da Gazeta
 
-Este repositório contém os roteiros, planejamento e materiais visuais do podcast **A Patada da Gazeta**, uma produção dedicada à releitura crítica dos clássicos da literatura brasileira.
+Este repositório contém os roteiros, materiais visuais do podcast e o arquivo em audio do episódio 01 do podcast **A Patada da Gazeta**, uma produção dedicada à releitura crítica dos clássicos da literatura brasileira.
 
 ## Episódios
 
@@ -8,6 +8,6 @@ Este repositório contém os roteiros, planejamento e materiais visuais do podca
 
 ## Estrutura
 
-- `/roteiro`: textos roteirizados prontos para gravação
-- `/audios`: versões brutas ou editadas dos episódios
-- `/artes`: capas, thumbnails e material gráfico
+- `/roteiro`: texto roteirizado pronto para gravação
+- `/audios`: versão editada do episódio 01
+- `/artes`: capas do podcast
