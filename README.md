@@ -2,7 +2,7 @@
 **Um podcast que relê os clássicos da literatura brasileira com uma dose de crítica, humor e contexto histórico.**
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 **A Patada da Gazeta** é um podcast criado para oferecer ao público uma nova forma de enxergar os clássicos da literatura brasileira. Com uma abordagem atual, crítica e bem-humorada, o projeto analisa obras consagradas à luz de temas contemporâneos, sempre com um toque sarcástico — daqueles que até fariam Capitu levantar uma sobrancelha.
 
@@ -10,7 +10,7 @@ Todo o projeto foi desenvolvido com **apoio de inteligência artificial**, unind
 
 ---
 
-## 🤖 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto faz uso de ferramentas baseadas em IA e outras tecnologias acessíveis. Confira:
 
