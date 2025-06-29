@@ -36,6 +36,7 @@ Este repositório contém os roteiros, materiais visuais do podcast e o arquivo 
 ## Episódios
 
 - **Episódio 01**: Dom Casmurro — Amor, dúvida e ciúme eterno
+- **Episódio 02**: O Cortiço
 
 ## Estrutura
 
